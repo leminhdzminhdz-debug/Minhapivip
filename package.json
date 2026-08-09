@@ -1,6 +1,6 @@
 {
-  "name": "lcb-minh-predictor",
-  "version": "1.0.0",
+  "name": "lcb-minh-server",
+  "version": "2.0.0",
   "private": true,
   "main": "server.js",
   "scripts": {
@@ -8,9 +8,5 @@
   },
   "engines": {
     "node": ">=18"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.21.2"
   }
 }
